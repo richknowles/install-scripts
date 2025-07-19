@@ -1,0 +1,5 @@
+*.log
+*.bak
+*.tmp
+.env
+*.swp
